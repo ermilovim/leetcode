@@ -1,3 +1,3 @@
 # leetcode
 
-Solving some leetcode tasks to show skills
+Solving some leetcode tasks
